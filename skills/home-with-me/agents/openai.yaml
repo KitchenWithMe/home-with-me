@@ -1,0 +1,4 @@
+interface:
+  display_name: "HomeWithMe"
+  short_description: "Stateful shared-home care planning skill"
+  default_prompt: "Use $home-with-me to manage our shared-home chores and household rules."
